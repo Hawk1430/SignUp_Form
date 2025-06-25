@@ -51,7 +51,7 @@ function App() {
       alert("Form submitted successfully!");
     }
     else{
-      alert("Form cannot be submitted!");
+      alert("Can't submit the form!");
     }
     
   }
